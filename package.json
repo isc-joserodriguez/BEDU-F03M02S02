@@ -1,0 +1,24 @@
+{
+  "name": "BEDU_F03M02S02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joanrodriguezhe/BEDU_F03M02S02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joanrodriguezhe/BEDU_F03M02S02/issues"
+  },
+  "homepage": "https://github.com/joanrodriguezhe/BEDU_F03M02S02#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "isprime": "^0.0.2"
+  }
+}
