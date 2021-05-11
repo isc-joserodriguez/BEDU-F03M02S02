@@ -1,7 +1,5 @@
 const chalk = require('chalk');
 
-console.log(chalk.red('Hello World'));
-
-exports.helloWorld = function () {
-    return 'Hello World By: José Rodriguez';
-  };
+exports.helloWorld = function (name) {
+    console.log(chalk.red(`Hello World By: ${name}`));
+};

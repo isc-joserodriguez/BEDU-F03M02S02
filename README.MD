@@ -1,6 +1,8 @@
 # Documentación de mi módulo
 
-```
-const helloWorld= require('hello-world-joserodriguez@1.0.0').helloWorld
-console.log(helloWorld)
+Imprime un mensaje con tu nombre en rojo.
+
+```js
+const helloWorld= require('hello-world-joserodriguez').helloWorld;
+helloWorld('Your Name');
 ```
